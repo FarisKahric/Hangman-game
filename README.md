@@ -66,13 +66,6 @@ Hangman-Game/
 │── requirements.txt    # Dependencies (if needed)
 ```
 
-## Future Improvements
-
-- Implement a graphical user interface (GUI) using Tkinter.
-- Add different difficulty levels (easy, medium, hard).
-- Include a multiplayer mode.
-- Improve computer guessing strategy for better efficiency.
-- Store game statistics (win/loss records).
 
 ## License
 
